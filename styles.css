@@ -1,0 +1,126 @@
+input {
+  border-radius: 25px; 
+  padding: 15px 0 15px 0;
+  margin: -10px 0 30px 0;  
+}
+
+button {
+    border-radius: 5px;
+    background-color: #f8f9fa;
+    border: none;
+    padding: 10px 10px 10px 10px;
+    margin: 0px 5px 0px 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+button:hover {
+    box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+    border: 1px solid #dadce0;
+}
+
+h1 {
+    text-align: center;
+}
+
+form {
+    text-align: center;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+}
+
+.images {
+    list-style-type: none;
+    display: inline-block;
+    text-align: right;
+    margin-left: auto;
+    padding: 0px 0px 0px 15px;
+}
+
+
+.gmail {
+    list-style-type: none;
+    margin-left: 0;
+    display: inline-block;
+    padding: 14px 0px 0px 700px;
+}
+
+
+.about {
+    list-style-type: none;
+    display: inline-block;
+    padding: 0px 0px 0px 15px;
+    position: relative;
+}
+
+.store {
+    list-style-type: none;
+    display: inline-block;
+    padding: 0px 0px 0px 15px;
+}
+
+img {
+    padding: 100px 0px 0px 0px;
+    display: absolute;
+}
+
+nav {
+    position: relative;
+    display: inline-block;
+}
+
+
+.middle {
+    padding: 0px 0px 150px 0px;
+}
+
+footer {
+    text-align: center;
+    padding: 0px 0px 120px 0px;
+    background-color: #f2f2f2;
+    display: relative;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    padding: 15px 0px 0px 0px;
+}
+
+span {
+    padding: 20px 0px 0px 0px;
+    display: absolute;
+}
+.privacy {
+    padding: 0px 0px 0px 27px;
+    line-height: 5em;
+}
+
+.terms {
+    padding: 0px 0px 0px 27px;
+}
+
+.settings {
+    padding: 0px 0px 0px 27px;
+}
+
+.advertising {
+    padding: 0px 0px 0px 27px;
+}
+
+.business {
+    padding: 0px 0px 0px 27px;
+}
+
+.how {
+    padding: 0px 0px 0px 27px;
+}
+
+a:hover {
+    text-decoration: underline;
+}
